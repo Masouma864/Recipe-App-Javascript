@@ -12,7 +12,7 @@ SPA app used to display different Recipes using wireframe, and API that can be "
 
 ## Live Demo 
 
-[Live Demo] (https://johnadibe.github.io/Kanban-board/dist/)
+[Live Demo](https://jovial-froyo-119ccd.netlify.app/)
 
 [Github Ling](https://github.com/Johnadibe/Kanban-board/)
 
