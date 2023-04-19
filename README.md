@@ -1,26 +1,6 @@
-# Kanban-board
-# Kanban-board
-The capstone project for Module 2, Our team  set up a "Kanban-board " repository. We create web application based on an external API. We Use JavaScript to make websites dynamic and build basic single page apps.
-The 2 sections We added to build for this project are:
-- A home page showing a list of items that you can "like."
-- A popup window with more data about an item that you can use to comment on it or reserve it for a period of time.
+## Recipe-App-Javascript
 
-## Objectives:
--Use JavaScript to make websites dynamic and build basic single page apps.
--Use ES6 syntax.
--Use ES6 modules.
--Use callbacks and promises.
--Use webpack.
--Apply JavaScript best practices and language style guides in code.
--Use AAA pattern for unit tests.
--Write units tests for a JavaScript app.
--Follow Gitflow.
--Solve simple git conflicts.
--Send and receive data from an API.
--Use API documentation.
--Understand and use JSON.
--Make JavaScript code asynchronous.
--Perform a code review for a team member.
+SPA app used to display different Recipes using wireframe, and API that can be "liked". The Web App will show a popup window with more data about an item. A form is created to take the "comment" given by the User.
 
 ## Technologies 
 - HTML
@@ -30,11 +10,12 @@ The 2 sections We added to build for this project are:
 - JEST
 - VISUAL STUDIO CODE
 
-## Live Demo (if available)
-github repo link 
-[https://github.com/Johnadibe/Kanban-board/]
+## Live Demo 
 
-online version link [https://johnadibe.github.io/Kanban-board/dist/]
+[Live Demo] (https://johnadibe.github.io/Kanban-board/dist/)
+[Github Ling](https://github.com/Johnadibe/Kanban-board/)
+
+
 
 ## Getting Started
 
